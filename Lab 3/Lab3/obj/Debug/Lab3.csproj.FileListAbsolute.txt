@@ -1,0 +1,5 @@
+C:\Users\777\RiderProjects\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\777\RiderProjects\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\777\RiderProjects\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\777\RiderProjects\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\777\RiderProjects\Lab3\Lab3\obj\Debug\Lab3.pdb
